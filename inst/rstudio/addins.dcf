@@ -1,0 +1,5 @@
+Name: Visit project repo
+Description: New Addin Description
+Binding: take_me2github
+Interactive: false
+
